@@ -2,7 +2,7 @@
 
 ### **Business Analyst || Data-Driven Problem Solver**
 
-I have a solid background in managing and optimizing Windows environments for diverse clients, along with expertise in virtualization technologies such as VMware and Hyper-V. With proficiency in Python programming and popular data science libraries, I am passionate about leveraging data science and AI methodologies to extract meaningful insights and drive informed decision-making.
+To apply my analytical and technical skills to solve real-world problems, extract meaningful insights, and contribute to the success of the organization while continuously learning and growing in a dynamic environment
 
 ### **🛠 Technical Skills:**  
 - **Windows Administration**: Management, optimization  
