@@ -1,6 +1,6 @@
 # Hi, I'm Priyanka Bhotmange  👋 </h1>
 
-### **Business Analyst || Data-Driven Problem Solver**
+### **Analyst || Data-Driven Problem Solver**
 
 To apply my analytical and technical skills to solve real-world problems, extract meaningful insights, and contribute to the success of the organization while continuously learning and growing in a dynamic environment
 
