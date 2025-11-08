@@ -56,9 +56,9 @@ Hi! I'm **Priyanka Bhotmange**, a passionate and detail-oriented individual on a
 
 | 🌟 Project | 🔍 Description |
 |-----------|----------------|
-| [**Zomato Price Prediction**](#) | Power BI dashboard for pricing trends using linear regression. |
-| [**Customer Churn Prediction**](#) | Built ML model with 87% accuracy to forecast banking churn. |
-| [**Sales Prediction via Ads**](#) | Predicted sales using ad spend data, 80% model accuracy. |
+| [**Walmart Sales Forecasting using Python**](#) | Built forecasting models using Python (Holt–Winters, SARIMA, Prophet) and visualized insights in Power BI. |
+| [**Customer Churn Prediction**](#) | Built ML model with 83% accuracy to forecast banking churn. |
+| [**Hospital Performance Metrics**](#) | Improved data-driven decision-making by revealing 92% bed utilization, service-wise trends, and satisfaction insights. |
 
 ---
 
