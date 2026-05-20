@@ -57,15 +57,7 @@ I combine analytical thinking with domain curiosity to uncover insights that sup
 
 ## 💼 Experience
 
-### 🔹 Business Analyst Intern — Eco Sankalp Pvt. Ltd.
-`Business Analysis | Requirements Gathering | Reporting`
-- Gathered and documented business requirements from stakeholders for sustainability-focused projects
-- Analyzed operational data to identify process gaps and improvement opportunities
-- Prepared structured reports and presentations to communicate insights to the management team
-
----
-
-### 🔹 Data Analyst Intern — Unified Mentor Pvt. Ltd.
+### 🔹 Business Analyst Intern — Unified Mentor Pvt. Ltd.
 `Oct 2024 – Apr 2025 | Python | SQL | Power BI | EDA`
 - Conducted end-to-end exploratory data analysis on business datasets using Python (Pandas, NumPy)
 - Designed data visualization dashboards using Power BI to support business decision-making
